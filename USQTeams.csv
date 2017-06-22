@@ -1,0 +1,289 @@
+index,team.name,abbreviation,city,state,zip,type,lat,long,region
+1,Alfred University Saxons,alfred-saxons,Alfred,NY,14802,College,42.2552,-77.793,NE
+16,Binghamton Quidditch,bing-quidditch,Vestal,NY,13902,Adult Community,42.0986,-75.9183,NE
+21,Bosnyan Bearsharks,bosny,brooklyn,NY,11206,Adult Community,40.7012,-73.9436,NE
+22,Boston Riot,riot,Jamaica Plain,MA,2130,Adult Community,42.3126,-71.1115,NE
+23,Boston University Quidditch,bu,Boston,MA,2215,College,42.3471,-71.1027,NE
+25,Brandeis Quidditch,brandeis,Waltham,MA,2454,College,42.3888,-71.2426,NE
+37,Clark University Quidditch,cu-quidditch-1,Worcester,MA,1610,College,42.2492,-71.8108,NE
+43,Cornell Quidditch,cornell-quidditch,Ithaca,NY,14850,Adult Community,42.4485,-76.4929,NE
+49,CT Cornish Pixies Quidditch,cornish-pixies,East Hampton,CT,6424,Adult Community,41.5761,-72.5093,NE
+65,Emerson College Quidditch,ecq,Boston,MA,2116,Adult Community,42.3492,-71.0768,NE
+66,Emerson Community Quidditch,emerson-1,Cambridge,MA,2140,Adult Community,42.3914,-71.1294,NE
+76,Fredonia Quidditch,fredonia,Fredonia,NY,14063,College,42.4333,-79.3339,NE
+83,Harvard Horntails,harvard,Cambridge,MA,2138,College,42.377,-71.1256,NE
+84,Hofstra University Flying Dutchmen,hofstra-quidditch,Hempstead,NY,11549,College,40.7139,-73.6003,NE
+96,Ithaca College Hex,ic-hex,Ithaca,NY,14850,College,42.4485,-76.4929,NE
+97,Ithaca Community Quidditch Team,ithaca-hex,Ithaca,NY,14850,Adult Community,42.4485,-76.4929,NE
+98,Ives Pond Quidditch Club,ives-pond,Clarence Center,NY,14032,Adult Community,43.0362,-78.639,NE
+116,Macaulay Honors College Marauders,macaulay-marauders,New York,NY,10023,College,40.7764,-73.9827,NE
+128,MIT Marauders,mit,Cambridge,MA,2139,College,42.3647,-71.1042,NE
+134,New Haven Nightmares,nightmares,West Haven,CT,6516,College,41.2701,-72.9638,NE
+135,New York Badassilisks,ny-badassilisks,New York,NY,10033,Adult Community,40.8496,-73.9356,NE
+136,New York Pigeons,pigeons,New York,NY,10003,College,40.7313,-73.9892,NE
+137,New York Quidditch Club,new-york-qc,New York,NY,10012,College,40.7255,-73.9983,NE
+138,New York University Nundu,nyu-nundu,New York,NY,10012,College,40.7255,-73.9983,NE
+157,Providence Ashwinders,providence,Providence,RI,2912,Adult Community,41.8258,-71.4008,NE
+163,Quidditch Club Boston,q-c-boston-1,Somerville,MA,2144,Adult Community,42.4003,-71.1221,NE
+176,RIT Dark Marks,dark-marks,Rochester,NY,14623,College,43.0834,-77.6344,NE
+178,Rochester United,rochester-united,Rochester,NY,14623,Adult Community,43.0834,-77.6344,NE
+180,RPI Quidditch,rpi,Troy,NY,12180,College,42.7287,-73.6683,NE
+193,Skidmore Quidditch,skidmore-quidditch,Saratoga Springs,NY,12866,College,43.0801,-73.7806,NE
+201,Stony Brook Quidditch,stony-brook,Stony Brook,NY,11794,College,40.9141,-73.1255,NE
+203,SUNY Cortland Red Dragons,red-dragons,Cortland,NY,13045,College,42.5952,-76.1857,NE
+204,SUNY Geneseo,geneseo,Geneseo,NY,14454,College,42.7938,-77.7996,NE
+205,Syracuse University Quidditch Club,syracuse-snare,Syracuse ,NY,13244,College,43.0394,-76.1361,NE
+219,The Flying Knights Quidditch Club,the-flying-knights,Randolph Center,VT,5061,College,43.9379,-72.597,NE
+227,The Rogues,the-rogues,Brooklyn,NY,11206,Adult Community,40.7012,-73.9436,NE
+240,Tufts University Tufflepuffs,tufts-quidditch,Medford,MA,2155,College,42.4173,-71.1087,NE
+243,University at Buffalo Dragons,ub-dragons,Buffalo ,NY,14260,College,43.0003,-78.7902,NE
+253,University of Massachusetts Amherst,umass-amherst,Amherst,MA,01003-9359,College,42.3892,-72.5256,NE
+254,University of Massachusetts Amherst Sillynannies,umass-amherst-sillynannies,Amherst,MA,01003-9359,College,42.3892,-72.5256,NE
+255,University of Massachusetts Lowell Riverhawks,umass-lowell-riverhawks-1,Lowell,MA,1854,College,42.6493,-71.3355,NE
+262,University of Rhode Island,rhody-ridgebacks,Kingston ,RI,2881,College,41.4803,-71.5292,NE
+263,University of Rochester Thestrals,ur-thestrals,Rochester,NY,14620,College,43.1317,-77.6062,NE
+271,University of Vermont Quidditch,vermont,Burlington,VT,5401,College,44.484,-73.2199,NE
+3,Annapolis Annihilators,naptown,Annapolis,MD,21403,Youth Community,38.9524,-76.491,MA
+5,Appalachian Apparators Quidditch,the-apparators,Boone,NC,28608,Adult Community,36.2167,-81.6747,MA
+6,Appoquinimink High School Hippogriffs,appo,Newark,DE,19702,High School,39.6349,-75.6993,MA
+29,Capital Madness Quidditch Club,capital-madness,Fairfax,VA,22032,Adult Community,38.8177,-77.2925,MA
+30,Carnegie Mellon Quidditch Club,carnegie-mellon,Pittsburgh,PA,15289,College,40.4406,-79.9961,MA
+39,CNU Captains of Crucio,captains,Newport News,VA,23606,College,37.0768,-76.4967,MA
+54,Dickinson College Dirigible Plums,dickinson-college,Carlisle,PA,17013-2311,College,40.2039,-77.1995,MA
+55,District of Columbia Quidditch Club,dc-quidditch,Fairfax,VA,22033,Adult Community,38.8776,-77.3885,MA
+57,Drexel Quidditch Club,drexel,Philadelphia,PA,19104,College,39.9597,-75.2024,MA
+58,Duke University Quidditch,duke-quidditch-1,Durham,NC,27708,College,35.9985,-78.9394,MA
+75,Franklin and Marshall Quidditch,f-m-quidditch,Lancaster,PA,17603,College,40.0305,-76.3316,MA
+78,George Mason Club Quidditch,gmu-qc,Fairfax,VA,22030,College,38.8458,-77.3242,MA
+79,George Mason University,gmu-quidditch,Fairfax Station,VA,22039,College,38.7602,-77.3064,MA
+81,Grove City Legion of Broom,grove-city,Grove City,PA,16127,College,41.1607,-80.0841,MA
+85,Hopkins Hallows,hopkins,Baltimore,MD,21218,College,39.3265,-76.6048,MA
+86,Horn Tailed Horcruxes,horn-tails-1,Irvington,NJ,7079,Adult Community,40.7465,-74.2575,MA
+87,Horn Tailed Horcruxes Quidditch Team,horn-tailed-horcruxes,South Orange,NJ,7079,Adult Community,40.7465,-74.2575,MA
+99,James Madison University Quidditch,madison-marauders,Harrisonburg,VA,22807,College,38.4341,-78.8674,MA
+100,Johns Hopkins Quidditch,hopkins-1,Baltimore,MD,21218,College,39.3265,-76.6048,MA
+102,Kutztown University Quidditch,kutztown-quidditch,Kutztown,PA,19530,College,40.5214,-75.7774,MA
+104,Lafayette Club Quidditch,lafayette-quidditch,Easton,PA,18042,College,40.6867,-75.2358,MA
+108,Lock Haven University Quidditch,lhu-quidditch,Lock Haven,PA,17745,College,41.1425,-77.4436,MA
+117,Mansfield University Fire Ferrets Quidditch,mu-fire-ferrets-1,Mansfield,PA,16933,College,41.8123,-77.0716,MA
+119,Maryland Quidditch,maryland,College Park,MD,20740,College,38.9963,-76.9299,MA
+143,NYDC Capitalists,nydc,Alexandria,VA,22304,Adult Community,38.8149,-77.121,MA
+153,Penn Quidditch,upenn,Philadelphia,PA,19104,College,39.9597,-75.2024,MA
+154,Penn State University Nittany Lions,penn-state-nittany-lions,University Park,PA,16802,College,40.8019,-77.8567,MA
+155,Philadelphia Honey Badgers,philly-honey-badgers,Philadelphia,PA,8535,Adult Community,40.215,-74.4404,MA
+160,Q.C. Pittsburgh,q-c-pitt-2,Pittsburgh,PA,15213,College,40.4437,-79.9544,MA
+161,Quidditch at the University of Virginia,whomping-wahoos,Charlottesville,VA,22904,College,38.0337,-78.5153,MA
+164,Quidditch Club of Pittsburgh,qc-pitt,Pittsburgh,PA,15213,College,40.4437,-79.9544,MA
+165,Quidditch Club of the Carolinas,qc-carolinas,Boone,NC,28607,Adult Community,36.2142,-81.666,MA
+166,Raging Ridgebacks,ridgebacks,Huntingdon,PA,16652,College,40.5023,-78.005,MA
+170,Red Cedar River Monsters,river-monsters,Washington,DC,20001,Adult Community,38.9122,-77.0177,MA
+173,Richmond Quidditch,richmond-quidditch,Richmond,VA,23173,College,37.5737,-77.5407,MA
+174,Richmond Ravens,ravens,Richmond,VA,23219,Adult Community,37.5463,-77.4378,MA
+181,Rutgers Nearly Headless Knights,rutgers,EDISON,NJ,8820,College,40.578,-74.3589,MA
+182,Rutgers University Quidditch,rutgers-1,New Brunswick,NJ,8901,College,40.4891,-74.4482,MA
+195,South Jersey HellHounds,hellhounds-1,Glendora,NJ,8029,Adult Community,39.8404,-75.0697,MA
+199,Steel City Quidditch Club,steel-city,Oak Island,NC,28465,Adult Community,33.9161,-78.1255,MA
+200,Stockton University Ospreys,ospreys,Galloway,NJ,8205,College,39.4283,-74.4961,MA
+208,Team-Who-Must-Not-Be-Named,the-dark-team,Hamilton,NJ,8619,Adult Community,40.242,-74.6904,MA
+230,The University of North Carolina at Chapel Hill Quidditch,unc-quidditch,Chapel Hill,NC,27599,College,35.9052,-79.0474,MA
+232,The Warriors,warriors,Clifton,NJ,7013,Adult Community,40.8693,-74.1711,MA
+239,Tri-State Lightning Quidditch Club,tri-state-lightning-1,Bayonne,NJ,7002,Adult Community,40.6664,-74.1192,MA
+252,University of Mary Washington Quidditch,umw-quidditch,Fredericksburg,VA,22401,College,37.3429,-77.4156,MA
+258,University of North Carolina at Greensboro,spartans,Greensboro,NC,27402,College,36.0681,-79.952,MA
+273,Villanova Community Quidditch,villanova-quidditch,Villanova,PA,19085,Adult Community,40.0399,-75.3459,MA
+274,Villanova Quidditch,nova-quidditch-2,Villanova,PA,19085,College,40.0399,-75.3459,MA
+275,Virginia Quidditch Club,virginia-qc,Charlottesville,VA,22903,College,38.0327,-78.5058,MA
+276,Virginia Tech,vt,Blacksburg,VA,24060,College,37.2288,-80.4273,MA
+277,Virginia Tech Phoenixes,vt-quidditch,Blacksburg,VA,24060,College,37.2288,-80.4273,MA
+280,West Virginia Mountaineers,wvu-quidditch,Morgantown,WV,26506,College,39.6494,-79.9571,MA
+284,Wilmington Warhawks,wilmington-2,Wilmington,NC,28403,College,34.2237,-77.8862,MA
+288,Wizengamot Quidditch at VCU,vcu-wizengamot-1,Richmond,VA,23220,College,37.5498,-77.4588,MA
+2,Anarchs Quidditch,anarchs,Topeka,KS,66607,Adult Community,39.0421,-95.6449,MW
+17,Blue Mountain Quidditch Club,blue-mountain,Toledo,OH,43614,Adult Community,41.6028,-83.6292,MW
+18,Boggarts Quidditch Club at Colorado State University,boggarts-quidditch-club-at-csu,Fort Collins,CO,80524,College,40.5986,-105.058,MW
+33,Central Michigan Quidditch,centaurs-1,Mount Pleasant,MI,48858,College,43.6013,-84.7736,MW
+35,Chicago Phoenix Quidditch Club,chicago-phoenix-2,Chicago,IL,60660,Adult Community,41.9909,-87.6629,MW
+36,Chicago United Quidditch Club,chicago-united-1,Port Barrington,IL,60010,Adult Community,42.1614,-88.1383,MW
+45,Creighton Quidditch,creighton-quidditch,Omaha,NE,68178,College,41.2649,-95.9488,MW
+48,Crimson Warhawks,crimson-warhawks,Lawrence,KS,66044,College,38.9644,-95.2418,MW
+52,Denison Deatheaters,denison-quidditch-league,Granville,OH,43023,College,40.0788,-82.5194,MW
+56,Downriver Dragons,downriver-dragons,Romulus,MI,48174,Adult Community,42.2203,-83.3583,MW
+61,Eastern Michigan Flying Squirrels,flying-squirrels,Ypsilanti,MI,48197,College,42.2325,-83.6336,MW
+63,Eastern Michigan Quidditch Club,eastern-michigan,Ypsilanti,MI,48197,College,42.2325,-83.6336,MW
+89,IIT QuiddIITch Team,iit-quiddiitch,Chicago,IL,60616,College,41.8426,-87.6306,MW
+90,Illini Ridgebacks Quidditch Team,illini-ridgebacks,Urbana,IL,61801,College,40.1095,-88.2036,MW
+91,Illinois State University Firebirds,firebirds,Normal,IL,61761,College,40.5124,-88.9883,MW
+93,Indiana University South Bend Titans,iu-south-bend-titans,South Bend,IN,46613,College,41.6546,-86.2479,MW
+95,Iowa State Quidditch,iowa-state,Ames,IA,50014,College,42.0293,-93.667,MW
+101,Kansas Quidditch,kansas-quidditch,Lawrence,KS,66049,College,38.9704,-95.2769,MW
+112,Loyola University Chicago,loyola-lumos-3,Chicago,IL,60660,College,41.9909,-87.6629,MW
+118,Marquette University Quidditch,marquette,Milwaukee,WI,53233,College,43.0407,-87.9357,MW
+124,Mile High Quidditch Club,mile-high-qc,Denver,CO,80230,Adult Community,39.7206,-104.899,MW
+125,Minnesota Nice Quidditch Club,mnqc,Minneapolis,MN,55405,Adult Community,44.9687,-93.2991,MW
+126,Minnesota Quidditch,minnesota,Minneapolis,MN,55455,College,44.9816,-93.2393,MW
+129,Mizzou Quidditch,mizzou,Columbia,MO,65211,College,38.9368,-92.3221,MW
+142,Northwestern Kneazles,kneazles,Evanston,IL,60201,College,42.0546,-87.6943,MW
+151,OSU The Mighty Bucks,mighty-bucks,Columbus,OH,43201,Adult Community,39.9952,-83.0047,MW
+192,SIUE Quidditch Club,siue-quidditch,Edwardsville,IL,62026,College,38.8114,-89.9531,MW
+196,Southern Illinois University Quidditch,saluki-quidditch,Carbondale,IL,62901,College,37.72,-89.2158,MW
+197,Spartan Spitfires,spitfires,East Lansing,MI,48823,Adult Community,42.7388,-84.4764,MW
+207,TC FROST,frost,Minneapolis,MN,55406,Adult Community,44.9384,-93.2214,MW
+216,The Charles School Chimeras,chimeras,Columbus,OH,43219,High School,40.0044,-82.9365,MW
+235,Toledo Firebolts Quidditch,toledo,Toledo,OH,43606,College,41.6712,-83.606,MW
+248,University of Chicago Phoenixes,uc-phoenixes,Chicago,IL,60637,College,41.7813,-87.6051,MW
+257,University of Missouri,mizzou,Columbia,MO,65211,College,38.9368,-92.3221,MW
+260,University of Northern Colorado,unc,Greeley,CO,80631,College,40.414,-104.705,MW
+278,Webster University Quidditch,webster,St. Louis,MO,63119,College,38.5889,-90.3508,MW
+283,Wichita State University,shockers-1,Wichita,KS,67260,College,37.7165,-97.2968,MW
+286,Wisconsin Quidditch,wisconsin,madison,WI,53719,College,43.0321,-89.4993,MW
+4,Anteater Quidditch,anteaters,Irvine ,CA,92697-5125,College,33.6508,-117.826,WE
+7,Arizona Jackalopes,jackalopes,chandler,AZ,85224,Adult Community,33.3301,-111.863,WE
+8,Arizona Quidditch Club,azqc,Phoenix,AZ,85012,Adult Community,33.5097,-112.068,WE
+9,Arizona State University,arizona-state,Tempe,AZ,85281,College,33.4227,-111.926,WE
+27,Cal Quidditch,cal,Berkeley,CA,94704,College,37.8664,-122.257,WE
+28,California Dobbys,ca-dobbys,Oakland,CA,94611,Adult Community,37.8282,-122.227,WE
+46,Crimson Elite,crimson-elite-1,Salt Lake City,UT,84103,Adult Community,40.7776,-111.875,WE
+47,Crimson Fliers,fliers,Salt Lake City,UT,84108,Adult Community,40.7371,-111.826,WE
+103,La Serna High School,la-serna,Whittier,CA,90605,High School,33.9413,-118.036,WE
+110,Los Angeles Gambits,la-gambits,Torrance,CA,90717,Adult Community,33.7933,-118.317,WE
+127,Mission Blues Quidditch,mission-blues,Redwood City,CA,94061,Adult Community,37.4647,-122.23,WE
+141,Northern Arizona University Narwhals,narwhals,Flagstaff,AZ,86001,College,35.1859,-111.662,WE
+152,Pacific Phoenix Quidditch Club,pacific-phoenix,Stockton,CA,95211,College,37.9804,-121.31,WE
+158,Provo Quidditch,provo,Provo,UT,84606,Adult Community,40.2347,-111.645,WE
+177,Riverside Quidditch,riverside,Moreno Valley,CA,92553,Adult Community,33.9157,-117.235,WE
+183,San Jose State University Spartans,sjsu,San Jose,CA,95112,College,37.3414,-121.88,WE
+185,Santa Barbara Blacktips,blacktips-1,Goleta,CA,93117,Adult Community,34.4296,-119.861,WE
+188,Silicon Valley Skrewts,skrewts-1,San Francisco,CA,94122,Adult Community,37.7593,-122.484,WE
+189,Silicon Valley Skyfighters,skyfighters,Newark,CA,94560,Adult Community,37.5368,-122.032,WE
+190,Silicon Valley Vipers,vipers,Mountain View,CA,94041,Adult Community,37.3893,-122.078,WE
+191,Sin City Quid Pro Quo,quid-pro-quo,North Las Vegas,NV,89081,Adult Community,36.2621,-115.113,WE
+194,South Bay Blazers,the-blazers-1,San Jose ,CA,95112,Adult Community,37.3414,-121.88,WE
+198,Stanford Quidditch,stanford,Stanford,CA,94309,College,37.4242,-122.165,WE
+202,Sun Devil Quidditch,sun-devils,Tempe,AZ,85281,College,33.4227,-111.926,WE
+217,The Fighting Farmers of America,farmers,Long Beach,CA,90808,Adult Community,33.8241,-118.11,WE
+218,The Fighting Farmers of Arizona,farmers-2,Scottsdale,AZ,85254,Adult Community,33.6165,-111.955,WE
+221,The Honolulu Nightmarchers,the-nightmarchers,Honolulu,HI,96813,Adult Community,21.3179,-157.852,WE
+222,The Long Beach Funky Quaffles,funky-quaffles-1,Westminster ,CA,92683,Adult Community,33.7528,-117.991,WE
+223,The Lost Boys,lost-boys,Lomita,CA,90717,Adult Community,33.7933,-118.317,WE
+226,The Nightmarchers,nightmarchers,Honolulu,HI,96813,Adult Community,21.3179,-157.852,WE
+233,Thundercats Quidditch,thundercats,Rocklin,CA,94513,Adult Community,37.9324,-121.689,WE
+244,University of Arizona Quidditch,ua-quidditch,Tucson,AZ,85716,College,32.2468,-110.922,WE
+247,University of California Los Angeles,ucla,Los Angeles,CA,90095-1612,College,34.0708,-118.444,WE
+267,University of Southern California,usc-quidditch,Los Angeles,CA,90007,College,34.0294,-118.287,WE
+272,Utah State Quidditch Club,utah-state,Logan,UT,84321,College,41.747,-111.823,WE
+287,Wizards of Westwood,wizards-1,Los Angeles,CA,90024,College,34.0637,-118.441,WE
+31,Carolina Heat Quidditch Club,carolina-heat,Columbia,SC,29201,Adult Community,34.0004,-81.0334,SE
+32,Central Florida Quidditch,ucf,Orlando,FL,32817,College,28.5903,-81.2535,SE
+34,Chanticleers,chants,Myrtle Beach,SC,29579,College,33.7438,-78.9361,SE
+40,College of Charleston,charleston-4,Summerville,SC,29483,College,33.028,-80.1739,SE
+41,College of Charleston Quidditch,cofc-quidditch,Charleston,SC,29403,College,32.7976,-79.9493,SE
+42,College of Charleston Quidditch,cofc-quidditch-2,Charleston,SC,29424,College,32.7836,-79.937,SE
+59,East Tennessee State University Quidditch,etsu-quidditch,Johnson City ,TN,37614,College,36.3027,-82.3681,SE
+60,Eastern Florida State College Titans,titans,Titusville,FL,32796,College,28.6271,-80.8429,SE
+67,Emory University Quidditch,dooley-s-death-dancers,Atlanta,GA,30322,College,33.7931,-84.3244,SE
+69,Florida Atlantic University Owls,fau-owls,Boca Raton,FL,33431,College,26.3799,-80.0975,SE
+70,Florida Gulf Coast Quidditch,fgcu-quidditch,Fort Myers,FL,33965,College,26.4737,-81.9397,SE
+71,Florida International University,fiu-panthers,Miami,FL,33174,College,25.7628,-80.3611,SE
+72,Florida State University,fsu-quidditch,Tallahassee,FL,32306,College,30.4422,-84.2956,SE
+73,Florida's Finest,finest,NA,FL,NA,Adult Community,NA,NA,SE
+74,Flying Panthers Quidditch Club,flying-panthers,Miami,FL,33173,Adult Community,25.6992,-80.3618,SE
+77,Gainesville Siege,siege,Gainesville,FL,32607,Adult Community,29.6456,-82.4033,SE
+94,inTENNsity,intennsity,Cookeville ,TN,38501,Adult Community,36.1743,-85.4953,SE
+131,MTSU Threstrals,mtsu,Murfreesboro,TN,37132,College,35.8475,-86.3625,SE
+132,Nearly Headless Knights,ucf-quidditch-1,Orlando,FL,32817,College,28.5903,-81.2535,SE
+133,Nearly Headless Knights Quidditch,ucf-quidditch,Orlando,FL,32816,College,28.6049,-81.205,SE
+139,North Broward Preparatory School Snidgets,nbps-snidgets-1,Coconut Creek,FL,33073,High School,26.2997,-80.181,SE
+162,Quidditch Club at the University of Tennessee Knoxville,tennessee,Knoxville,TN,37916,College,35.9556,-83.9336,SE
+169,RCQC,rcqc-2,Winter Park,FL,32789,College,28.5978,-81.3534,SE
+172,Richland Rangers,rangers,Richland,MS,39218,Adult Community,32.2152,-90.1562,SE
+175,Ringling College of Art and Design,rcad,Sarasota,FL,34234,College,27.3654,-82.5352,SE
+179,Rollins College,rollins,Orlando,FL,32812,College,28.4998,-81.3288,SE
+209,Tennessee Tech Quidditch,tennessee-tech-quidditch,Cookeville,TN,38501,College,36.1743,-85.4953,SE
+210,Tennessee Time Turners Quidditch,time-turners-1,Knoxville,TN,37916,College,35.9556,-83.9336,SE
+220,The Forgotten Ones Quidditch,forgotten-ones-quidditch,Cookeville,TN,38501,Adult Community,36.1743,-85.4953,SE
+225,The Muggle Snugglers,muggle-snugglers,lavergne,TN,37086,Adult Community,36.0127,-86.56,SE
+229,The Southern Storm,storm,rock hill ,SC,29733,Adult Community,34.9415,-81.0309,SE
+234,Time Turners Quidditch,time-turners-2,Knoxville,TN,37916,College,35.9556,-83.9336,SE
+251,University of Florida Quidditch,uf-quidditch,Gainesville,FL,32607,College,29.6456,-82.4033,SE
+256,University of Miami,umiami,Coral Gables,FL,33146,College,25.7201,-80.2746,SE
+264,University of South Alabama,usa-quidditch,Mobile,AL,36688,College,30.6966,-88.1741,SE
+265,University of South Carolina,gamecocks-1,Columbia,SC,29208,College,33.9964,-81.0265,SE
+266,University of South Florida Quidditch,south-florida-quidditch,Tampa,FL,33620,College,28.0695,-82.4092,SE
+269,University of Southern Mississippi,southern-miss,Hattiesburg,MS,39406,College,31.3282,-89.3303,SE
+285,Winthrop University Quidditch Team,winthrop-quidditch,Rock Hill,SC,29733,College,34.9415,-81.0309,SE
+10,Arkansas State RedWolf Quidditch,redwolf-quidditch,State University,AR,72467,College,35.9149,-90.4542,SW
+11,Arkansas Tech Quidditch Club,atu-quidditch,Russellville,Ar,72801,College,35.2842,-93.1315,SW
+12,Austin Quidditch,austin-quidditch-1,Austin,TX,78712-1401,College,30.2858,-97.7349,SW
+14,Baylor University,the-bears,Waco,TX,76798,College,31.5446,-97.1192,SW
+38,Clone Star Quidditch Club,clone-star,League City,TX,77573,Adult Community,29.5173,-95.0963,SW
+44,Cougar Quidditch,cougar-quidditch,Houston,TX,77379,Adult Community,30.0234,-95.5285,SW
+50,Death Row Quidditch,death-row,Huntsville,TX,77340,Adult Community,30.7344,-95.5342,SW
+51,DeathRow Quidditch Team,deathrow,Taylor,TX,76574,College,30.5807,-97.4401,SW
+53,Denver Dementors,denver,Denver,CO,80205,Adult Community,39.759,-104.966,SW
+82,Gulf Coast Gumbeaux,gumbeaux,New Orleans,LA,70118,Adult Community,29.9504,-90.1236,SW
+88,Houston Cosmos Quidditch Club,houston-cosmos,Houston,TX,77007,Adult Community,29.7736,-95.4034,SW
+109,Lone Star Quidditch Club,lone-star-qc,Austin,TX,78758,Adult Community,30.3764,-97.7078,SW
+111,Louisiana State University,lsu-quidditch,Baton Rouge,LA,70803,College,30.4124,-91.1822,SW
+113,Loyola University New Orleans,loyola,New Orleans ,LA,70118,College,29.9504,-90.1236,SW
+114,Lumberjack Quidditch,sfa,Nacogdoches ,TX,75965,College,31.6889,-94.6358,SW
+115,Lumberjack Quidditch,lumberjack-quidditch-1,Nacogdoches,TX,75962,College,31.6191,-94.6495,SW
+140,North Texas Firebolts,firebolts,Denton,TX,76207,Adult Community,33.2404,-97.1649,SW
+146,Oklahoma Baptist University,oklahoma-baptist,Shawnee,OK,74804,College,35.3822,-96.9199,SW
+147,Oklahoma Quidditch,ou,Norman,OK,73072,College,35.2107,-97.473,SW
+148,Oklahoma Quidditch Club,o-q-c,Oklahoma City,OK,73127,Adult Community,35.4834,-97.6299,SW
+149,Oklahoma State University,oklahoma-state,Stillwater,OK,74075,College,36.1396,-97.063,SW
+150,Osos De Muerte,osos-1,Waco,TX,76706,College,31.5171,-97.1198,SW
+171,Rice Quidditch League,rice-quidditch,Houston,TX,77050,College,29.9015,-95.2848,SW
+184,San Marcos Sharknados,sharknados-1,San Marcos,TX,78666,Adult Community,29.8754,-97.9404,SW
+187,SHSU Quidditch,sam-houston,Huntsville,TX,77340,College,30.7344,-95.5342,SW
+206,Tarleton Honeybadgers,honeybadgers,Stephenville,TX,76401,College,32.2214,-98.2224,SW
+211,Texas A&M Quidditch,texas-a-m-quidditch,College Station,TX,77840,College,30.6045,-96.3123,SW
+212,Texas Cavalry,cavalry-1,Austin,TX,78751,Adult Community,30.3093,-97.7242,SW
+213,Texas Quidditch,texas-quidditch-1,Austin,TX,78712,College,30.2858,-97.7349,SW
+214,Texas State University - San Marcos,texas-state,San Marcos,TX,78666,College,29.8754,-97.9404,SW
+215,Texas Tech Quidditch,texas-tech,Lubbock,TX,79401,College,33.5865,-101.861,SW
+228,The Silver Phoenix,silver-phoenix-1,College Station,TX,77843,College,30.6147,-96.34,SW
+237,Tribe,tribe-1,Bonanza,AR,72916,Adult Community,35.2502,-94.3703,SW
+238,Tribe Quidditch,tribe,Fort Smith,AR,72908,Adult Community,35.3028,-94.4093,SW
+241,Tulane University,tu-quidditch,New Orleans,LA,70118,College,29.9504,-90.1236,SW
+242,UAFS Lions Quidditch,uafs,Fort Smith ,AR,72904,College,35.4051,-94.3872,SW
+245,University of Arkansas Quidditch Club,arkansas-quidditch-2,Fayetteville,AR,72701,College,36.052,-94.1534,SW
+249,University of Colorado Boulder Basilisks,boulder-basilisks,Boulder,CO,80302,College,40.0172,-105.285,SW
+259,University of North Texas,north-texas,Denton,TX,76201,College,33.2289,-97.1314,SW
+261,University of Oklahoma,crimson-firebolts,Norman,OK,73019,College,35.2212,-97.4448,SW
+270,University of Texas at San Antonio,utsa-club-quidditch-2,San Antonio,TX,78249,College,29.5612,-98.6117,SW
+279,West Texas Rebels Quidditch Club,west-texas-rebels,El Paso,TX,79968,College,31.7707,-106.504,SW
+15,Big Sky Flyers Quidditch,big-sky-flyers,Bozeman,MT,59715,College,45.6693,-111.043,NW
+19,Boise State Abraxans,abraxans,Boise,ID,83725,College,43.605,-116.205,NW
+20,Boise State Thestrals,thestrals-1,Boise,ID,83725,College,43.605,-116.205,NW
+26,British Columbia Quidditch Club,british-columbia,Vancouver,WA,V6S 1E9,College,49.255,-123.187,NW
+64,Emerald City Admirals,the-admirals,Seattle,WA,98117,Adult Community,47.6873,-122.377,NW
+120,McNary Celtics Quidditch,mcnary,Keizer,OR,97303,High School,44.9858,-123.019,NW
+130,Moscow Manticores at the University of Idaho,moscow-manticores-1,Moscow,ID,83843,College,46.7309,-116.99,NW
+156,Portland Augureys,augureys-2,Vancouver,WA,98662,Adult Community,45.6745,-122.576,NW
+167,Rain City Raptors,raptors-1,Bellevue,WA,98004,Adult Community,47.6199,-122.207,NW
+168,Raisbeck Aviation High School Fawkes Quidditch,fawkes,Burien,WA,98148,High School,47.4502,-122.326,NW
+186,Seattle Salamanders,salamanders,Seattle,WA,98102,Adult Community,47.6302,-122.321,NW
+224,The Moscow Manticores at the University of Idaho,moscow-manticores,Moscow,ID,83843,College,46.7309,-116.99,NW
+246,University of British Columbia,ubc-thunderbirds,"Vancouver,  BC,  Canada",AK,V6T 1Z4,College,49.255,-123.187,NW
+282,Western Washington Wyverns,wyverns,Bellingham,WA,98225,College,48.749,-122.489,NW
+13,Ball State Cardinals,ball-state,Muncie,IN,47306,College,40.1927,-85.4102,GL
+24,Bowling Green State University,bg-quidditch,Bowling Green,OH,43402,College,41.3815,-83.6507,GL
+62,Eastern Michigan Quidditch,emu-quidditch,Ypsilanti,MI,48197,College,42.2325,-83.6336,GL
+68,Falcon Warriors Quidditch Club,falcon-warriors,Bowling Green,OH,43402,Adult Community,41.3815,-83.6507,GL
+80,Grand Valley Quidditch,gv-grindylows,Allendale,MI,49401,College,42.9711,-85.9249,GL
+92,Indiana University Quidditch,iu-quidditch,Bloomington,IN,47405,College,39.168,-86.5205,GL
+105,Lake Effect Maelstrom,maelstrom-1,Dayton,OH,45410,Adult Community,39.7474,-84.16,GL
+106,Lake Effect Tempest,tempest,Chardon,OH,44024,Adult Community,41.5719,-81.2056,GL
+107,Lake Erie Elite,lake-erie,Ann Arbor,MI,48104,Adult Community,42.2694,-83.7282,GL
+121,Miami University,miami-university,Oxford,OH,45056,College,39.5038,-84.7385,GL
+122,Michigan Quidditch Team,michigan-quidditch,Ann Arbor,MI,48104,College,42.2694,-83.7282,GL
+123,Michigan State Quidditch,michigan-state-1,East Lansing,MI,48823,College,42.7388,-84.4764,GL
+144,Ohio State Quidditch,osu-quidditch,Columbus,OH,43201,College,39.9952,-83.0047,GL
+145,Ohio University Quidditch Club,ohio-university,Athens,OH,45701,College,39.3178,-82.102,GL
+159,Purdue Intercollegiate Quidditch Club,purdue-quidditch-1,West Lafayette,IN,47906,College,40.444,-86.9237,GL
+236,Toledo Quidditch,toledo-2,Toledo,OH,43609,College,41.6298,-83.5773,GL
+250,University of Dayton Quidditch,ud-quidditch,Dayton,OH,45469,College,39.7331,-84.1804,GL
+268,University of Southern Indiana Quidditch,southern-indiana-quidditch,Evansville,IN,47712,College,37.9985,-87.6347,GL
+281,Western Michigan University Thestrals,wmu-thestrals,Kalamazoo,MI,49008,College,42.2624,-85.6096,GL
+289,Wooster Scottish Nationals,wooster-scots,Wooster,OH,44691,College,40.8094,-81.9483,GL
